@@ -19,3 +19,9 @@ Bonus points:
 - Do something cool
 
 Redux is used heavily in our application, so knowing how it works would be really useful, even for yourself as a React developer. If you need any information about redux or sagas, their website provide excellent documentation.
+
+# Improvements
+
+Why did the chicken cross the road?
+
+To get to the other side.
